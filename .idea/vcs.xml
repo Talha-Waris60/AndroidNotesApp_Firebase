@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BluetoothChatting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CarParking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FireBaseStorage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Liffo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RealtimeChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserAuthentication" vcs="Git" />
+  </component>
+</project>
